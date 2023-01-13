@@ -44,7 +44,7 @@ const images = [
 | Prop name                | Description                                                                                         | Type                                                        | Required |
 | ------------------------ | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | -------- |
 | `data`                 | 需要渲染的图片                                                                          | string[]                                               | true     |
-| `imageContainerStyle`           | ViewStyle    | (imageSrc: ImageSource, index: number) => string | false 
+| `imageContainerStyle`           | 包裹图片View的样式    | ViewStyle | false 
 
 
 
