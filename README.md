@@ -33,7 +33,7 @@ const images = [
   "https://images.unsplash.com/photo-1569569970363-df7b6160d111"
 ];
 
-<ImageView
+<Images
   data={images}
 />
 ```
