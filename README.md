@@ -27,14 +27,14 @@ npm install --save @dplus/images
 ```jsx
 import Images from "@dplus/images";
 
-const images = [
+const imagesData = [
   "https://images.unsplash.com/photo-1571501679680-de32f1e7aad4",
   "https://images.unsplash.com/photo-1573273787173-0eb81a833b34",
   "https://images.unsplash.com/photo-1569569970363-df7b6160d111"
 ];
 
 <Images
-  data={images}
+  data={imagesData}
 />
 ```
 
